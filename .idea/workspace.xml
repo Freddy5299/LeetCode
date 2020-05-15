@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73a6f87f-198b-40b5-84a6-0b2cac468339" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/056和为k的子数组.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/104Maximum Depth of Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26记录重复指针.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/53最大子序列和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/88Merge Sorted Array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/102.py" beforeDir="false" afterPath="$PROJECT_DIR$/102.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20括号匹配.py" beforeDir="false" afterPath="$PROJECT_DIR$/20括号匹配.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21比较两个链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/21比较两个链表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +11,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
   <component name="ProjectId" id="1bn1JWWr9jFUmuMdPtEvM21MBdi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
