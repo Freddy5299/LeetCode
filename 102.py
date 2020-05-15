@@ -6,11 +6,11 @@ class Node:
 
 
 
-# class Solution:
-#     def levelOrder(self, root) :
-#         """递归法 用时中等"""
-#         if root is None:
-#             return []
+class Solution:
+    def levelOrder(self, root) :
+        """递归法 用时中等"""
+        if root is None:
+            return []
 #
 #         result = []
 #
