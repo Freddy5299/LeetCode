@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73a6f87f-198b-40b5-84a6-0b2cac468339" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/drawBinaryTree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/102.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/104Maximum Depth of Binary Tree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/88Merge Sorted Array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/最长回文.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Longest Palindromic Substring.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +25,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MicroservicePython" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -46,8 +45,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.122. Best Time to Buy and Sell Stock II">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.146. LRU Cache">
+    <configuration name="105. Construct Binary Tree from Preorder and Inorder Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="104Maximum Depth of Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="146. LRU Cache" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/104Maximum Depth of Binary Tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/146. LRU Cache.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="121. Best Time to Buy and Sell Stock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="167. Two Sum II - Input array is sorted" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/167. Two Sum II - Input array is sorted.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="122. Best Time to Buy and Sell Stock II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5. Longest Palindromic Substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Longest Palindromic Substring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="152. Maximum Product Subarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="drawBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/152. Maximum Product Subarray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/drawBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.122. Best Time to Buy and Sell Stock II" />
-        <item itemvalue="Python.121. Best Time to Buy and Sell Stock" />
-        <item itemvalue="Python.152. Maximum Product Subarray" />
-        <item itemvalue="Python.104Maximum Depth of Binary Tree" />
-        <item itemvalue="Python.1" />
+        <item itemvalue="Python.146. LRU Cache" />
+        <item itemvalue="Python.105. Construct Binary Tree from Preorder and Inorder Traversal" />
+        <item itemvalue="Python.drawBinaryTree" />
+        <item itemvalue="Python.167. Two Sum II - Input array is sorted" />
+        <item itemvalue="Python.5. Longest Palindromic Substring" />
       </list>
     </recent_temporary>
   </component>
@@ -187,5 +186,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="str" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
